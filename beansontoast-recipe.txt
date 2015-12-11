@@ -1,0 +1,8 @@
+Ingredients:
+ - 1 Tin of Beans
+ - 4 Slices of Bread
+
+Directions:
+  1. In a medium saucepan, heat the beans
+  2. In a toaster, toast the bread
+  3. Arrange toast on plate and cover with beans
